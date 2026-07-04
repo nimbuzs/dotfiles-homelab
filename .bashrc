@@ -124,3 +124,5 @@ source /usr/share/doc/fzf/examples/key-bindings.bash
 alias cat=batcat
 
 alias ls='eza -l --color=always --icons --sort=name'
+
+export PATH=$PATH:/usr/local/go/bin
